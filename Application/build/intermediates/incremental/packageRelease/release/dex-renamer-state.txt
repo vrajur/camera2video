@@ -1,0 +1,4 @@
+#Tue Jul 24 22:17:03 EDT 2018
+base.0=/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

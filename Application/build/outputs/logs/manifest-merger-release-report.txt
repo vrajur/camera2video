@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+MERGED from [com.android.support:support-v13:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/4387ce63ddba79c3534373ea7d526d63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/792e045282d06312624e867646990a9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/75030f0db78ec996b5813d35246f5270/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08050d9cd858761e9abd4a9316f4613d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/e71df0622ea327a7fbd3f57f030fb058/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/085af1d319c522af37f7e12ba7b05228/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/3487d3736ec054d7a990e9c92a6e9e9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/46d061ba085232e5969050a229873ca9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3b8d6a1a3e0d2b8ea6114d0299c60eee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b23d74e412c723d13157af6b096d2d30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f4c7fb5bedf22207ca21ca2b23f10ab7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/vinay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/484e708feda5acf70963e9e61d26e81b/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:18:5-47
+	android:versionName
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:25:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:26:22-78
+application
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:28:5-41:19
+	android:label
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.camera2video.CameraActivity
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:33:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/4387ce63ddba79c3534373ea7d526d63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/4387ce63ddba79c3534373ea7d526d63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/792e045282d06312624e867646990a9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/792e045282d06312624e867646990a9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/75030f0db78ec996b5813d35246f5270/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/75030f0db78ec996b5813d35246f5270/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08050d9cd858761e9abd4a9316f4613d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08050d9cd858761e9abd4a9316f4613d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/e71df0622ea327a7fbd3f57f030fb058/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/e71df0622ea327a7fbd3f57f030fb058/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/085af1d319c522af37f7e12ba7b05228/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/085af1d319c522af37f7e12ba7b05228/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/3487d3736ec054d7a990e9c92a6e9e9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/3487d3736ec054d7a990e9c92a6e9e9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/46d061ba085232e5969050a229873ca9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/46d061ba085232e5969050a229873ca9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3b8d6a1a3e0d2b8ea6114d0299c60eee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3b8d6a1a3e0d2b8ea6114d0299c60eee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b23d74e412c723d13157af6b096d2d30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b23d74e412c723d13157af6b096d2d30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f4c7fb5bedf22207ca21ca2b23f10ab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/vinay/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f4c7fb5bedf22207ca21ca2b23f10ab7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/vinay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/484e708feda5acf70963e9e61d26e81b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/vinay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/484e708feda5acf70963e9e61d26e81b/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+		ADDED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/vinay/git/android/examples/android-Camera2Video/Application/src/main/AndroidManifest.xml

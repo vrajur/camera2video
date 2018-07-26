@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/vinay/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f4c7fb5bedf22207ca21ca2b23f10ab7/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/vinay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08050d9cd858761e9abd4a9316f4613d/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/4387ce63ddba79c3534373ea7d526d63/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e66b741299db855d094ffafb2b783258f24fc010">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/484e708feda5acf70963e9e61d26e81b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f4c7fb5bedf22207ca21ca2b23f10ab7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08050d9cd858761e9abd4a9316f4613d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/75030f0db78ec996b5813d35246f5270/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b23d74e412c723d13157af6b096d2d30/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/3487d3736ec054d7a990e9c92a6e9e9c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/792e045282d06312624e867646990a9b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3b8d6a1a3e0d2b8ea6114d0299c60eee/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/46d061ba085232e5969050a229873ca9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/e71df0622ea327a7fbd3f57f030fb058/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vinay/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/085af1d319c522af37f7e12ba7b05228/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/vinay/git/android/examples/android-Camera2Video/Application/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+
+</items>
